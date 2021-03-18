@@ -1,0 +1,16 @@
+body {
+	
+	button {
+
+		&:focus {
+			outline: none;
+		}
+	}
+
+	a {
+
+		&:hover {
+			text-decoration: none;
+		}
+	}
+}
